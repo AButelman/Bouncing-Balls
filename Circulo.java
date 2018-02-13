@@ -2,6 +2,8 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Panel;
 
+// ESTO ES SIMPLEMENTE UN COMENTARIO PARA PROBAR GIT
+
 @SuppressWarnings("serial")
 public class Circulo extends Panel{	// Panel con el m�todo paint sobreescrito para dibujar un c�rculo
 	private int diametro;
